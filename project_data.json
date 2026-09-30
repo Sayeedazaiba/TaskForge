@@ -1,0 +1,95 @@
+{
+    "projects": {
+        "1357": {
+            "project_id": "1357",
+            "name": "fitness tracker",
+            "tasks": []
+        },
+        "1234": {
+            "project_id": "1234",
+            "name": "agribot",
+            "tasks": [
+                {
+                    "task_id": "5",
+                    "name": "create homepage",
+                    "description": "create a aesthetic homepage design for users",
+                    "due_date": "2026-06-16",
+                    "assigned_to": null
+                }
+            ]
+        },
+        "ag_01": {
+            "project_id": "ag_01",
+            "name": "agribot",
+            "tasks": []
+        },
+        "pr_01": {
+            "project_id": "pr_01",
+            "name": "performance_tracker",
+            "tasks": []
+        },
+        "p_11": {
+            "project_id": "p_11",
+            "name": "smart_campus",
+            "tasks": []
+        },
+        "p_1": {
+            "project_id": "p_1",
+            "name": "smart_home",
+            "tasks": []
+        },
+        "pid_1": {
+            "project_id": "pid_1",
+            "name": "smart_attendance_system",
+            "tasks": []
+        },
+        "prid01": {
+            "project_id": "prid01",
+            "name": "desk_assistant",
+            "tasks": []
+        },
+        "projectid1": {
+            "project_id": "projectid1",
+            "name": "safetrip",
+            "tasks": [
+                {
+                    "task_id": "taskid1",
+                    "name": "frontend implementation",
+                    "description": "build a user friendly frontend ",
+                    "due_date": "2026-10-15",
+                    "assigned_to": "teammemberid1"
+                }
+            ]
+        }
+    },
+    "team_members": {
+        "1": {
+            "team_member_id": "1",
+            "name": "zoe"
+        },
+        "6": {
+            "team_member_id": "6",
+            "name": "joy"
+        },
+        "t_01": {
+            "team_member_id": "t_01",
+            "name": "raj"
+        },
+        "tm_01": {
+            "team_member_id": "tm_01",
+            "name": "tina"
+        },
+        "tid_01": {
+            "team_member_id": "tid_01",
+            "name": "riya"
+        },
+        "hk90": {
+            "team_member_id": "hk90",
+            "name": "tom"
+        },
+        "teammemberid1": {
+            "team_member_id": "teammemberid1",
+            "name": "zeba"
+        }
+    }
+}
