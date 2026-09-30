@@ -71,5 +71,3 @@ TaskForge was developed as part of my internship experience, where I applied Pyt
 **Sayeeda Zaiba**
 
 GitHub: https://github.com/Sayeedazaiba
-
-LinkedIn: https://linkedin.com/in/sayeeda-zaiba
