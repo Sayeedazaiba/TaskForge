@@ -27,40 +27,49 @@ The project was developed with a focus on Python programming, Object-Oriented Pr
 
 ## Project Structure
 
-TaskForge
-├── project_management.py
-├── project_data.json
-└── README.md
+    TaskForge/
+    ├── project_management.py
+    ├── project_data.json
+    └── README.md
 
-How to Run
-1. Clone the Repository
-git clone https://github.com/Sayeedazaiba/TaskForge.git
-2. Navigate to the Project Folder
-cd TaskForge
-3. Run the Application
-python project_management.py
+## How to Run
+
+### 1. Clone the Repository
+
+    git clone https://github.com/Sayeedazaiba/TaskForge.git
+
+### 2. Navigate to the Project Folder
+
+    cd TaskForge
+
+### 3. Run the Application
+
+    python project_management.py
 
 The Tkinter-based desktop application will open.
 
-Data Storage
+## Data Storage
 
-Project information is stored locally in project_data.json. The application reads from and writes to this file to maintain project records.
+Project information is stored locally in `project_data.json`. The application reads from and writes to this file to maintain project records.
 
-Key Concepts Practiced
-Python programming
-Object-Oriented Programming
-Tkinter GUI development
-JSON file handling
-CRUD operations
-Event-driven programming
-Basic application design
-Internship Project
+## Key Concepts Practiced
+
+- Python programming
+- Object-Oriented Programming
+- Tkinter GUI development
+- JSON file handling
+- CRUD operations
+- Event-driven programming
+- Basic application design
+
+## Internship Project
 
 TaskForge was developed as part of my internship experience, where I applied Python programming and OOP concepts to build a functional desktop application.
 
-Author
+## Author
 
-Sayeeda Zaiba
+**Sayeeda Zaiba**
 
 GitHub: https://github.com/Sayeedazaiba
 
+LinkedIn: https://linkedin.com/in/sayeeda-zaiba
