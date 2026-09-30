@@ -27,7 +27,7 @@ The project was developed with a focus on Python programming, Object-Oriented Pr
 
 ## Project Structure
 
-TaskForge/
+TaskForge
 ├── project_management.py
 ├── project_data.json
 └── README.md
@@ -64,4 +64,3 @@ Sayeeda Zaiba
 
 GitHub: https://github.com/Sayeedazaiba
 
-LinkedIn: https://linkedin.com/in/sayeeda-zaiba
